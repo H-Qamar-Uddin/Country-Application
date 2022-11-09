@@ -1,0 +1,27 @@
+img{
+    width: 320px;
+    height: 320px;
+}
+
+.region-container{
+    text-align: center;
+    margin: 50px;
+    border: 2px solid rgb(231, 25, 25);
+    width: 370px;
+    height: 370px;
+    margin-left: 100px;
+    margin-top: 100px;
+    transition: all 0.3s ease;
+
+}
+
+.region-container:hover{
+border: 1px solid green;
+cursor: pointer;
+}
+.progress{
+    margin: 30px 0;
+    color: blue;
+    width: 20px;
+}
+
